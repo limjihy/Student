@@ -8,6 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author limjihy -- May 2020
+ **/
  
 public class Student {
     
