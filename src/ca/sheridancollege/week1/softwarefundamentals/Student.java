@@ -7,8 +7,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author asidhu
- */
+ * @author limjihy -- May 2020
+ 
 public class Student {
     
     private String name;
